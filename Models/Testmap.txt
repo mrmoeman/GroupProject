@@ -1,0 +1,8 @@
+# Obj/Box.obj Image/ChurchRuin.png 2.5 0 15.0 1.0 1.0 1.0 0.0 0.0 0.0
+# Obj/UD_MC_ChurchRuin.obj Image/ChurchRuin.png -50.0 0.0 0.0 1.0 1.0 1.0 0.0 -30.0 0.0
+# Obj/UD_MC_ChurchRuin.obj Image/ChurchRuin.png 50.0 0.0 -200.0 1.0 1.0 1.0 0.0 0.0 0.0
+# Obj/UD_MC_ChurchRuin.obj Image/ChurchRuin.png 200.0 0.0 -150.0 1.0 1.0 1.0 0.0 120.0 0.0
+# Obj/UD_MC_ChurchRuin.obj Image/ChurchRuin.png -200.0 0.0 50.0 1.0 1.0 1.0 0.0 90.0 0.0
+# Obj/UD_MC_ChurchRuin.obj Image/ChurchRuin.png 50.0 0.0 200.0 1.0 1.0 1.0 0.0 0.0 0.0
+# Obj/UD_MC_ChurchRuin.obj Image/ChurchRuin.png 200.0 0.0 50.0 1.0 1.0 1.0 0.0 90.0 0.0
+# Obj/measure.obj Image/measure.jpg 0.0 0.0 0.0 1.0 1.0 1.0 0.0 0.0 0.0

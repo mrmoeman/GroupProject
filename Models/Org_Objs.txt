@@ -1,0 +1,3 @@
+# Obj/Org_EF_Egg.obj Image/Org_EF_Egg_D.png 0.0 0.0 0.0 1.0 1.0 1.0 0.0 0.0 0.0
+# Obj/Org_EF_Grid.obj Image/Grid.jpg 0.0 0.0 0.0 1.0 1.0 1.0 0.0 0.0 0.0
+

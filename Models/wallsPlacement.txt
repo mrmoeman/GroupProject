@@ -1,0 +1,2 @@
+# Obj/walls.obj Image/walls.png 0.0 0.0 0.0 1.0 1.0 1.0 0.0 0.0 0.0
+# Obj/floor.obj Image/floor.png 0.0 0.0 0.0 1.0 1.0 1.0 0.0 0.0 0.0
